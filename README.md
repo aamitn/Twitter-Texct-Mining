@@ -1,10 +1,11 @@
-# Twitter-Texct-Mining
+# Twitter-Text-Mining
 Text Mining from Twitter API using R
 
+# Getting Started
 1. Install Required Libraries in R
 2. Run using Rstudio
 
-Libraries Required:
+# Libraries Required:
 		rtweet,
 		ggplot2,
 		dplyr,
@@ -18,7 +19,7 @@ R Link: https://cran.r-project.org/bin/windows/base/
 
 Code is well explained using comments
 
-Major Parts in Code:
+# Major Parts in Code:
 
 1. Initialization
 2. Fetching Data Set from Twitter
@@ -31,6 +32,6 @@ For any queries drop a mail at: amitnandileo@gmail.com
 
 CHEERS!!
 
-Amit Kumar Nandi
+# Amit Kumar Nandi
 Birla Institue of Technology,
 Mesra
